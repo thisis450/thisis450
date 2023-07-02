@@ -1,6 +1,7 @@
 ### Hi there 👋
 20级计科菜鸡一只，代码如果要参考的话请谨慎qwq，而且建议不要纯照抄，还是要有自己思考的过程的。
 另外有一些课程可能没来的及整理上传，如果有需要以及有其他疑问都欢迎联系邮箱1185056784@qq.com
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thisis450)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **thisis450/thisis450** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
